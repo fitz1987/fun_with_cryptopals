@@ -3,3 +3,4 @@
 
 ## Contents: 
 - cryptopals-early.py has solutions to Set 1 Callenge 1 and 2 
+- c3.py has solution to Set 1 Challenge 3
